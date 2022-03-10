@@ -1,0 +1,213 @@
+[[Emoslib]]
+arch = "aarch64"
+git-tree-sha1 = "d5ec037451d9086047560d1e25ac2a812f219bf2"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "b9ea79f5d938efe7798d7a4a718ea28ac2686e9626404c58b1931edf5bc041c3"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[Emoslib]]
+arch = "aarch64"
+git-tree-sha1 = "b2f3f13d139376a62d68c9fbb94b7f157bf24245"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "d829cb593ac2060892c51c7ea3c3e0f46979774203cbcb58aff9d264d113621d"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Emoslib]]
+arch = "aarch64"
+git-tree-sha1 = "3870cbc59bc2760e325b4c9b962d76a2ca3ad6a3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "6cac5f383015fe00ccd42fd4591d315e2cddf257637a7f4ef73dbc658582b691"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Emoslib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b215a5492cab987f8fbc7398839fbe8dc7d7ad91"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "80a58f94fc0680390e26606fe521e209d7a463486f1e4b112d7bf68275dd7d08"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Emoslib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "545111c32cc06e19af6ed5cb979b13106f39786a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "10a8af4849ff0712ad318a026aa267f162c015a5cdcd5db3d0a6bca609946ae0"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Emoslib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "aea6e2994efb1d464c33d28a93244633b6bc6800"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "3a0dbf947caf2ac607ea7f9b2bb02efe51a421564e03822f0bb45196ea7e4b86"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Emoslib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "59adbe9527f7e606f703afebafe246ecc8ac2668"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "1f6bb0af9a9de271b7b68b1d3cf71c1ef270b7307427420e46c08e1d57a577fe"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Emoslib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c148b342210eaac6e3aad3b046ce5db8ea3c77db"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "29de8c93970f1bad757401d1b6596faaceb6bc7e014cca9251f2e844f9adcdc1"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Emoslib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6a2cfa50d61e88028b093d0cd86a9ecf46668d3c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "e9fd2a0a0a04ab1a5372b3c6c74b2070b7b0661f9d224b82bb885c3b82a42885"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Emoslib]]
+arch = "i686"
+git-tree-sha1 = "bb6c35903786cbab1fba1eed54fccff1eb2439d2"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "c3b4fca58aeb3bf1f2f11177ad417ac78e36e123bd6a8531605541c5b88fed73"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.i686-linux-gnu-libgfortran3.tar.gz"
+[[Emoslib]]
+arch = "i686"
+git-tree-sha1 = "7f855044fbaed3ac65be4c4c648487bb2a3c55b3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "e8fab054db585cfdff94d9d2896bc852eb5ac2ee50e663cd40a710c9bfe7e7a6"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.i686-linux-gnu-libgfortran4.tar.gz"
+[[Emoslib]]
+arch = "i686"
+git-tree-sha1 = "b3eda20ee70b5980ff87523c3cb3ff091eb9a95a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "0d35644213b0c7758f1a39446aacbfbfd71b1a835211b8e8bf254885b8894d64"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.i686-linux-gnu-libgfortran5.tar.gz"
+[[Emoslib]]
+arch = "powerpc64le"
+git-tree-sha1 = "f104c28a821223171177621651c12a660fdeea53"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "c16aa9f122ee407e727a0ef07103ac90a8ccd131a0e231c069208124070f6819"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Emoslib]]
+arch = "powerpc64le"
+git-tree-sha1 = "9d88b06e4ab68df6b323e5ac208d50c742657152"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "08a38c1dda1c7d6a7eb64ca4a3aa377359f78c8712ce9c041c3d454cacd45167"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Emoslib]]
+arch = "powerpc64le"
+git-tree-sha1 = "313624e36ce6caae051fa703aad71706bb58f13c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "1e507bdb8cb783176785af9d5d0022d3fafd688fea2fadd365d7cde6167ea4aa"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Emoslib]]
+arch = "x86_64"
+git-tree-sha1 = "3823366ef50477633a8843268b109b536effdf67"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Emoslib.download]]
+    sha256 = "5201c2b9c28acbd408331a43f650927bcbd0fc75c43352d71e8bb2fd5a499cb2"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Emoslib]]
+arch = "x86_64"
+git-tree-sha1 = "885b47fc266e8a93c7486b71c3bc19232723e588"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Emoslib.download]]
+    sha256 = "a3904d4f15742aeb57c79df044b590a4aca75da8ba2a7881a5b6969b9be2b636"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Emoslib]]
+arch = "x86_64"
+git-tree-sha1 = "1e2004ab83abc316a47d84d8a014b1e986770ca6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Emoslib.download]]
+    sha256 = "a6425c4496577454efb9b4037dec311b08b398d045031f5b6dde40a4ad7fc337"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Emoslib]]
+arch = "x86_64"
+git-tree-sha1 = "e311da8c3bc012161eea3cce63adff23697791f7"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "2355080096cab585d79e194725f75e3ab6ec9ee1800f312bf617b8c4a0887781"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Emoslib]]
+arch = "x86_64"
+git-tree-sha1 = "c93a62df865e26feb5cab1cc9d693807fe19c5ae"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "a20b4b5769d265c91673dc62d950314962636fe68b23ea76bb127add09322766"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Emoslib]]
+arch = "x86_64"
+git-tree-sha1 = "9d82c9b47e47412bc32803f3b4e41fbebf85107d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Emoslib.download]]
+    sha256 = "9d016ad2837ab9be9e93862ac416989be222cff85b77a6fdd0f4dec07067eabd"
+    url = "https://github.com/JuliaBinaryWrappers/Emoslib_jll.jl/releases/download/Emoslib-v4.5.9+0/Emoslib.v4.5.9.x86_64-linux-gnu-libgfortran5.tar.gz"
